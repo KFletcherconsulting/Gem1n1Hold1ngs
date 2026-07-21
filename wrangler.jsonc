@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gem1n1hold1ngs-site",
+  "compatibility_date": "2026-07-21",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "gemini-holdings-site-3"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
